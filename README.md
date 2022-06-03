@@ -10,6 +10,6 @@ Under license CC-BY-4.0
 
 [Map animation of Ecuador Cellular Antennas](https://bryanvallejo16.github.io/opencell-ec/root/coverage_ec_cell.html)
 
-[](gif/opencell_ec-continental.gif)
+![animation](gif/opencell_ec-continental.gif)
 
 @BryanRVallejo
