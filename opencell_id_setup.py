@@ -20,7 +20,7 @@ data.columns = col_names
 
 #UMTS 3G, GSM 2G, LTE 4G, CDMA 3G
 
-data['radio'] = data['radio'].replace('UMTS', '3G').replace('GSM', '2G').replace('LTE', '4G').replace('CDMA', '3D')
+data['radio'] = data['radio'].replace('UMTS', '3G').replace('GSM', '2G').replace('LTE', '4G').replace('CDMA', '3G')
 
 # 0 Movistar, 1 Claro, 2  CNT, 3 Tuenti
 
